@@ -1,3 +1,4 @@
-numpy~=2.0.2
+numpy~=1.26.4
 pyEDFlib~=0.1.38
 scipy~=1.13.1
+pyintan~=0.3.0
