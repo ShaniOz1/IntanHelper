@@ -17,7 +17,7 @@ import pandas as pd
 - Retina
 where in each folder there are 16 redordings, recorded with same parameters but different stimulation channel.
 """
-local_path = r'C:\Shani\SoftC prob\16Ch prob experiments\2025.01.08 E14\Retina2'
+local_path = r'C:\Shani\SoftC prob\16Ch prob experiments\2025.01.12 E14\Calibration'
 output_folder = r'outputs'
 
 pattern = os.path.join(local_path, '**', '*.rhs*')
